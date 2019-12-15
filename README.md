@@ -1,2 +1,3 @@
-# kakaoclone
- My html tutorial project.
+# kakao-clone
+
+Kakao Desktop App Clone.
